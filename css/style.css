@@ -1,0 +1,19 @@
+.card{
+	width:100%;
+	margin-top:30px;
+	border-top: 5px solid red;
+}
+.btn{
+	width:90%;
+	background-color:red !important;
+}
+h2{
+	margin-top:50px;
+	color:red;
+	font-weight:bold;
+	
+}
+hr.rr {
+	width:30%;
+  border: 1px solid red;
+}
